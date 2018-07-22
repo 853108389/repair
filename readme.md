@@ -28,10 +28,12 @@
 
 服务器后端界面
 
-![pp界](G:\zzzzz用于git上传\repair/服务端界面.jpg)
+https://github.com/853108389/repair
+
+![服务器界面](https://github.com/853108389/repair/blob/master/demo/server.jpg)
 
 app主页
 
 
 
-![pp界](G:\zzzzz用于git上传\repair/app界面-1532240525954.jpg)
+![app界面](https://github.com/853108389/repair/blob/master/demo/app.jpg)
