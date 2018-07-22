@@ -28,12 +28,10 @@
 
 服务器后端界面
 
-https://github.com/853108389/repair
 
 ![服务器界面](https://github.com/853108389/repair/blob/master/demo/server.jpg)
 
 app主页
-
 
 
 ![app界面](https://github.com/853108389/repair/blob/master/demo/app.jpg)
