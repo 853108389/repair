@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="tianlan">#87CEEB</color>
+    <color name="yinhui">#C0C0C0</color>
+    <color name="shentianlan">#00BFFF</color>
+    <color name="daoqilan">#1E90FF</color>
+    <color name="huise">#808080</color>
+    <color name="black">#000000</color>
+    <color name="text_white_shadow_color">#ff5a9487</color>
+    <color name="tools_box_bg">#ff333332</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+</resources>

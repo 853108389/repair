@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\background_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\background_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\home.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_register.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\login_password.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\login_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\login_wallpaper1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\login_wallpaper1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\login_logo.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\history.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_order.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\icon_order.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\head_default_yixin.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\head_default_yixin.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_user.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\icon_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_login_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\btn_login_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\load.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\load.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\service.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\service.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\location_marker.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\location_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shutdown.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\shutdown.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\background_login_div.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\background_login_div.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_repair.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\icon_repair.png"
+    }
+]

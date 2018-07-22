@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\history.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-ldpi\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\service.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-ldpi\\service.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\shutdown.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-ldpi\\shutdown.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

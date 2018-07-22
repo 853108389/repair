@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+body
+	{
+		width:100%;
+		margin:0px;
+		padding:0px;
+
+		background-position:center;
+		
+		
+	}
+#whole{
+	width:1350px;  
+	bordercolor:#FFF;
+	border:1; 
+	cellSpacing:0; 
+	cellPadding:1 ;
+	align:center;
+	
+#all{
+		
+	
+	
+	}
+	
+	
+	
+	}
+	
+#panel {
+            position: fixed;
+            background-color: white;
+            max-height: 90%;
+            overflow-y: auto;
+            top: 10px;
+            right: 10px;
+            width: 280px;
+        }
+
+	
+	
+#head {
+	   background: url("../images/welcome.png") no-repeat; 
+          height:100px;
+	
+	}
+#bottom
+	{
+		background-image:url("../images/bottom.jpg") ;
+		background-repeat:repeat-x;
+		height:50px; 		
+	}
+#main{
+	width:1350px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:#eee;
+	}
+	
+#mapinfo{
+	background:url("../images/1.png") repeat-x;
+	width:487px;
+	height:25px;
+	
+	
+	}
+	
+#map{
+	
+	height:100%;
+	
+	width:100%;
+	
+	
+	}
+	
+#listall{
+	
+	width:800px;
+	 height:780px; 
+	 valign:top;
+	 
+	
+	}
+#repairinfo{
+	background:url("../images/1.png") repeat-x ;
+	width:800px;
+	height:25px;
+	
+	
+	}
+#font1{
+	font-size:20px;
+	color:#41519A;
+	font-weight:bold;
+	padding-left:10px;
+	
+	
+	
+	}
+
+#font2{
+	font-size:20px;
+	color:#41519A;
+	font-weight:bold;
+	padding-left:10px;
+	
+	
+	
+	}

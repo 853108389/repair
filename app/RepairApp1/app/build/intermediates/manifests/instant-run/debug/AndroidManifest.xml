@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.repairapp.ui"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="15" />
+    <!-- 添加联网权限 -->
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="605a7a1e58d661ed8923abafb20e50d6" />
+        <!-- android:value="4428ddde15c921294aa8e721534e218b" -->
+        <!-- 定位需要的服务 -->
+        <service android:name="com.amap.api.location.APSService" >
+        </service>
+
+        <activity
+            android:name="com.repairapp.ui.MainActivity"
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.repairapp.ui.LoginActivity"
+            android:icon="@drawable/icon_user"
+            android:label="@string/login_name" >
+        </activity>
+        <activity
+            android:name="com.repairapp.ui.RegisterActivity"
+            android:icon="@drawable/icon_user"
+            android:label="@string/register_name" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LoginActivity" />
+        </activity>
+        <activity
+            android:name="com.repairapp.ui.MenuActivity"
+            android:icon="@drawable/home"
+            android:label="主菜单" >
+        </activity>
+        <activity
+            android:name="com.repairapp.ui.ServiceActivity"
+            android:icon="@drawable/service"
+            android:label="故障报修" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MenuActivity" />
+        </activity>
+        <activity
+            android:name="com.repairapp.ui.HistoryActivity"
+            android:icon="@drawable/history"
+            android:label="报修记录" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MenuActivity" />
+        </activity>
+        <activity
+            android:name="cn.smssdk.SMSSDKUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\RepairApp1\app\libs\AMap_2DMap_V2.8.1_20160202.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0109d970ab16fff07a9a2f22149aecdc1195a4c2">
+        <dex dex="C:\Users\Administrator\Desktop\RepairApp1\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_2DMap_V2.8.1_20160202_f6b552a500c256b6f9491188036f5403200e3874\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\RepairApp1\app\libs\SMSSDK-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="060beb0d4a5ccd971d811a9ed7ab4e0c24c6ba83">
+        <dex dex="C:\Users\Administrator\Desktop\RepairApp1\app\build\intermediates\transforms\dex\debug\folders\1000\2\SMSSDK-2.0.1_f7ebabcb08e66cc017bd411cce0529c32fd6e749\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\RepairApp1\app\libs\MobCommons.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5d3e4e5a84326b4a853327ce8ddabcaaa8d91b91">
+        <dex dex="C:\Users\Administrator\Desktop\RepairApp1\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons_17f872aef5c00a0aa376a989fb4fa04990a63859\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\RepairApp1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3cab529345e2286c0b9d4829bc0a19479d3f2ad">
+        <dex dex="C:\Users\Administrator\Desktop\RepairApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0c36a370ba00a029f1d87ed178f59576d3bdca12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\RepairApp1\app\libs\AMap_Location_V2.4.0_20160308.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd8aedb3d0d87b92777ab997ec883427d88f379a">
+        <dex dex="C:\Users\Administrator\Desktop\RepairApp1\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Location_V2.4.0_20160308_cd209651a0a042ba8b47aea3f7de15a853b9def9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Administrator\Desktop\RepairApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_a37153480c3901b2ee4884c471cf9ee1d2e62017\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\RepairApp1\app\libs\MobTools.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3675e064582d9617eb77150d75ce039345bea5be">
+        <dex dex="C:\Users\Administrator\Desktop\RepairApp1\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools_e2accf9b98be8d4912caeb14aaec5f09f9e768aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\RepairApp1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="23ef9183743a66c6dadfe4c620e8857aeca64ad2">
+        <dex dex="C:\Users\Administrator\Desktop\RepairApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4eccee7234b6ffea0adab2b0ac4608c6de0aec50\classes.dex" />
+    </item>
+
+</items>

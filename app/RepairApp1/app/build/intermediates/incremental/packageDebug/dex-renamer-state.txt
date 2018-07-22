@@ -1,0 +1,7 @@
+#Sat Sep 16 14:21:04 CST 2017
+base.0=C\:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4eccee7234b6ffea0adab2b0ac4608c6de0aec50
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0c36a370ba00a029f1d87ed178f59576d3bdca12\\classes.dex
+base.1=C\:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0c36a370ba00a029f1d87ed178f59576d3bdca12
+file.0=C\:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4eccee7234b6ffea0adab2b0ac4608c6de0aec50\\classes.dex

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_signupbutton_background_highlighted.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\login_signupbutton_background_highlighted.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_signupbutton_background.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\login_signupbutton_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_management_signinbutton_background_highlighted.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\login_management_signinbutton_background_highlighted.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_bottom_background.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\login_bottom_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_management_signinbutton_background.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\login_management_signinbutton_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_top_background.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\login_top_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_imput_background.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\RepairApp1\\app\\src\\main\\res\\drawable-mdpi\\login_imput_background.9.png"
+    }
+]

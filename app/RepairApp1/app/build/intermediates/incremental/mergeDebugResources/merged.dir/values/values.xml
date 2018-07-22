@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="daoqilan">#1E90FF</color>
+    <color name="huise">#808080</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="list_item_title">#fff</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="shentianlan">#00BFFF</color>
+    <color name="text_white_shadow_color">#ff5a9487</color>
+    <color name="tianlan">#87CEEB</color>
+    <color name="tools_box_bg">#ff333332</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yinhui">#C0C0C0</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">校园报修</string>
+    <string name="auto_login">自动登录</string>
+    <string name="login">登 录</string>
+    <string name="login_name">登录页面</string>
+    <string name="password">密码</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="reg_password_hint">请输入密码</string>
+    <string name="reg_username_hint">请输入手机号</string>
+    <string name="reg_validation_hint">请输入验证码</string>
+    <string name="register_btn">立即注册</string>
+    <string name="register_name">注册页面</string>
+    <string name="repassword">记住密码</string>
+    <string name="text1">没有帐号？ </string>
+    <string name="username">帐号</string>
+    <string name="username_hint">请输入手机号</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="normalText" parent="@android:style/TextAppearance">  
+           <item name="android:textColor">#444</item>  
+           <item name="android:textSize">18sp</item>       
+    </style>
+    <style name="normalText1" parent="@android:style/TextAppearance">  
+           <item name="android:textColor">#444</item>  
+           <item name="android:textSize">24sp</item>  
+    </style>
+</resources>
